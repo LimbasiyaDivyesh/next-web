@@ -1,0 +1,97 @@
+.navbar {
+    height: 20px;
+    background-color: black;
+}
+
+.container {
+    position: relative;
+    width: 70%;
+    border-radius: 20px;
+    left: 8.5%;
+    padding: 40px;
+    margin: 5%;
+    box-sizing: border-box;
+    background: #ecf0f3;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px rgb(221 221 221);
+}
+
+.readmore {
+    cursor: pointer;
+    text-decoration: none;
+    float: right;
+}
+
+.readmore:hover {
+    text-decoration: underline;
+}
+
+.editblog {
+    width: fit-content;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.editblog:hover {
+    text-decoration: underline;
+}
+
+.blogtitle {
+    text-decoration: none;
+    color: #0091ae
+}
+
+.blogtitle:hover {
+    text-decoration: underline;
+    color: #007a8c;
+}
+
+.authorButton {
+    background-color: #4CAF50 !important; /* Green */
+    border: none !important;
+    color: white !important;
+    padding: 10px 32px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    font-size: 14px !important;
+    margin: -10px -10px !important;
+    cursor: pointer !important;
+    float: right !important;
+}
+
+.form {
+    width: 50%;
+    left: 25%;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+}
+
+.hadname {
+    font-weight: 900;
+    font-size: 1.8rem;
+    color: #1DA1F2;
+    letter-spacing: 1px;
+}
+
+.blog {
+    margin-top: 20px !important;
+}
+
+.blog_name {
+    margin: 20px 0 0 0 !important;
+}
+
+.LoginButton {
+    margin-top: 20px !important;
+}
+
+/*.Crad {*/
+/*    background-color: #212529 !important;*/
+/*}*/
+/*.css-1a1fmpi-MuiInputBase-root-MuiInput-root:before{*/
+/*    border-bottom: 1px solid #ffffff !important;*/
+/*}*/
+
